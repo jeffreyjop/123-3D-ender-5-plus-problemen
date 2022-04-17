@@ -1,0 +1,3 @@
+Cube en prison zijn geprint en werkte zonder enige problemen.
+
+frame is finaal mislukt. zover ik weet zijn alle instellingen vrijwel identiek met uitzondering van misschien de infill, support en een raft
